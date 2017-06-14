@@ -43,7 +43,7 @@ body {
     font-size: 1.2em;
 }
 
-.about-tab:hover, .portfolio-tab:hover, .contact-tab:hover{
+.about-tab:hover, .portfolio-tab:hover, .contact-tab:hover, .projects-tab:hover{
 
     opacity:.8;
     position:relative;
@@ -245,11 +245,7 @@ p{
     transition: all 0.5s ease;
 }
 
-/*
-================================================
-  Provides a rotation of 360 deg when hovered.
-================================================
-*/
+
 .connect-images:hover {
 	-webkit-transform: rotate(360deg);
 	-moz-transform: rotate(360deg);
