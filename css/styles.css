@@ -33,7 +33,7 @@ body {
 	padding: 28px 20px 27px 20px;
 }
 
-.about-tab, .portfolio-tab, .contact-tab{
+.about-tab, .portfolio-tab, .contact-tab, .projects-tab{
 	text-decoration: none;
 	padding: 33px 10px 32px 10px;
     position: relative;
